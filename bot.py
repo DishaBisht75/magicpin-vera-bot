@@ -44,7 +44,7 @@ sent_suppression_keys: set[str] = set()             # avoid duplicate sends per 
 
 TEAM_NAME = "Disha Bisht"
 TEAM_MEMBERS = ["Disha Bisht"]
-CONTACT_EMAIL = "REPLACE_ME@example.com"
+CONTACT_EMAIL = "bishtdisha75@gmail.com"
 
 
 def _get(scope: str, context_id: str) -> Optional[dict]:
